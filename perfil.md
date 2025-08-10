@@ -13,13 +13,15 @@
 ## Experiencia Laboral
 
 ### [Lotería Nacional]
-**Cargo:** [Programador]  
-**Periodo:** [2015-2025]  
+**Cargo:** [Programador]
+**Periodo:** [2015-2025]
+**Pais:** [Rep.Dom]
 **Descripción:** Desarrollo de aplicaciones y portales Web, etc...
 
 ### [Ministerio de Educación]
 **Cargo:** [Docente]  
-**Periodo:** [2023-2025]  
+**Periodo:** [2023-2025]
+**Pais:** [Rep.Dom] 
 **Descripción:** Maestro en tecnico profesional.
 
 ## Contacto
