@@ -24,6 +24,18 @@
 **Pais:** [Rep.Dom] 
 **Descripción:** Maestro en tecnico profesional.
 
+## Formación Académica
+
+### [UNICARIBE]
+**Título:** [Lic. en Informática]  
+**Periodo:** [2012-2017]  
+**Descripción:** Licenciatura en informatica, etc...
+
+### [Cursos y Certificaciones]
+- [Habilitacion Docente] - [UNICARIBE] ([2017])
+- [Introduccion a #C] - [N/A] ([2024])
+- [Induccion Docente] - [MINERD] ([2024])
+
 ## Contacto
 - Email: [josemiguelmarte6@gmail.com]
 - LinkedIn: [N/A]
