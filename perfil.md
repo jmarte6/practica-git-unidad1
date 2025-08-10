@@ -17,6 +17,11 @@
 **Periodo:** [2015-2025]  
 **Descripción:** Desarrollo de aplicaciones y portales Web, etc...
 
+### [Ministerio de Educación]
+**Cargo:** [Docente]  
+**Periodo:** [2023-2025]  
+**Descripción:** Maestro en tecnico profesional.
+
 ## Contacto
 - Email: [josemiguelmarte6@gmail.com]
 - LinkedIn: [N/A]
